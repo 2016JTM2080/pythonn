@@ -34,4 +34,4 @@ print tinydict.keys() # parenthesis important
 print tinydict.values() # paranthesis important
 # Prints all the value
 
-raw_input("\n\nPress the enter key to exit.")
+raw_input("\n\nPress the enter key to exit.") #kjkjkjkljkljljljlj
